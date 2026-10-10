@@ -28,7 +28,7 @@ PRINT '-------------------------------------------------------------------------
 CREATE TABLE bronze.crm_cust_info(
     cust_id INT,
     cust_key VARCHAR(50),
-    cust_first_name VARCHAR(50),
+    cust_firstname VARCHAR(50),
     cust_lastname VARCHAR(50),
     cust_marital_status VARCHAR(50),
     cust_gndr VARCHAR(50),
