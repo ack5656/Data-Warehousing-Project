@@ -30,7 +30,7 @@ CREATE TABLE bronze.crm_cust_info(
     cust_key VARCHAR(50),
     cust_first_name VARCHAR(50),
     cust_lastname VARCHAR(50),
-    cUst_marital_status VARCHAR(50),
+    cust_marital_status VARCHAR(50),
     cust_gndr VARCHAR(50),
     cust_create_date DATE
 );
